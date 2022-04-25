@@ -1,3 +1,5 @@
+This is a fork from https://github.com/schickling/dockerfiles
+
 # mysql-backup-s3
 
 Backup MySQL to S3 (supports periodic backups & mutli files)
